@@ -23,6 +23,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".SurfaceCameraViewActivity" />
+        <activity android:name=".TextureCameraViewActivity" />
+        <activity android:name=".FaceCameraViewActivity" />
+        <activity android:name=".AboutUsActivity"></activity>
     </application>
 
 </manifest>
