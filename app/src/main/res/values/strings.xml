@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CameraDemo</string>
+    <string name="about_copyright">© %1$s shangrui Team All rights reserved.</string>
 </resources>
